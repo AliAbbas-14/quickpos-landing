@@ -93,5 +93,16 @@
             </div>
         </div>
     </section>
+        <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <h2>Get In Touch</h2>
+        <p>Have questions? We'd love to hear from you.</p>
+        <form action="contact.php" method="POST" class="contact-form">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+            <button type="submit" name="submit">Send Message</button>
+        </form>
+    </section>
 </body>
 </html>
