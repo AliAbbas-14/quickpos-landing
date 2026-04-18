@@ -16,5 +16,16 @@
         </nav>
         <a href="#" class="signup">Sign Up</a>
     </header>
+        <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>The Last POS System You'll Ever Need</h1>
+            <p>Fast, reliable, and easy-to-use point of sale for modern businesses.</p>
+            <a href="#" class="btn-hero">Get Started for Free</a>
+        </div>
+        <div class="hero-image">
+            <img src="https://placehold.co/500x400/2c3e66/white?text=POS+Mockup" alt="POS Software Mockup">
+        </div>
+    </section>
 </body>
 </html>
