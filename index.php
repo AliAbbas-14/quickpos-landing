@@ -53,5 +53,45 @@
             </div>
         </div>
     </section>
+        <!-- Pricing Section -->
+    <section class="pricing" id="pricing">
+        <h2>Simple, Transparent Pricing</h2>
+        <div class="pricing-grid">
+            <div class="pricing-card">
+                <h3>Basic</h3>
+                <div class="price">$29<span>/month</span></div>
+                <ul>
+                    <li>✓ Up to 500 transactions/month</li>
+                    <li>✓ Basic inventory management</li>
+                    <li>✓ Email support</li>
+                    <li>✗ Advanced analytics</li>
+                </ul>
+                <a href="#" class="btn-pricing">Get Basic</a>
+            </div>
+            <div class="pricing-card popular">
+                <div class="popular-badge">Most Popular</div>
+                <h3>Pro</h3>
+                <div class="price">$79<span>/month</span></div>
+                <ul>
+                    <li>✓ Unlimited transactions</li>
+                    <li>✓ Advanced inventory & analytics</li>
+                    <li>✓ Priority support</li>
+                    <li>✓ Integration with 10+ apps</li>
+                </ul>
+                <a href="#" class="btn-pricing">Get Pro</a>
+            </div>
+            <div class="pricing-card">
+                <h3>Enterprise</h3>
+                <div class="price">Custom</div>
+                <ul>
+                    <li>✓ Everything in Pro</li>
+                    <li>✓ Dedicated account manager</li>
+                    <li>✓ Custom integrations</li>
+                    <li>✓ 99.9% SLA guarantee</li>
+                </ul>
+                <a href="#" class="btn-pricing">Contact Sales</a>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
