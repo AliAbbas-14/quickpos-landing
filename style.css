@@ -31,3 +31,43 @@ nav a {
     border-radius: 5px;
     text-decoration: none;
 }
+/* Hero Section */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 50px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e9edf2 100%);
+    gap: 40px;
+}
+.hero-content {
+    flex: 1;
+}
+.hero-content h1 {
+    font-size: 48px;
+    color: #2c3e66;
+    margin-bottom: 20px;
+}
+.hero-content p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+}
+.btn-hero {
+    background: #2c3e66;
+    color: white;
+    padding: 12px 28px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+.hero-image {
+    flex: 1;
+    text-align: center;
+}
+.hero-image img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
