@@ -104,5 +104,32 @@
             <button type="submit" name="submit">Send Message</button>
         </form>
     </section>
+        <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">
+                <h3>QuickPOS</h3>
+                <p>The smartest POS system for modern businesses.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <a href="#">Features</a>
+                <a href="#">Pricing</a>
+                <a href="#">Contact</a>
+            </div>
+            <div class="footer-social">
+                <h4>Follow Us</h4>
+                <div class="social-icons">
+                    <a href="#">📘 Facebook</a>
+                    <a href="#">🐦 Twitter</a>
+                    <a href="#">📸 Instagram</a>
+                    <a href="#">🔗 LinkedIn</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 QuickPOS. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
