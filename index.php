@@ -27,5 +27,31 @@
             <img src="https://placehold.co/500x400/2c3e66/white?text=POS+Mockup" alt="POS Software Mockup">
         </div>
     </section>
+        <!-- Features Section -->
+    <section class="features" id="features">
+        <h2>Why Choose QuickPOS?</h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon">📦</div>
+                <h3>Inventory Management</h3>
+                <p>Track stock in real-time, set low-stock alerts, and manage suppliers effortlessly.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">📊</div>
+                <h3>Sales Analytics</h3>
+                <p>Detailed reports, daily sales summaries, and performance insights to grow your business.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🔌</div>
+                <h3>Easy Integration</h3>
+                <p>Seamlessly connect with accounting, e-commerce, and payment gateways.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">☁️</div>
+                <h3>Cloud Backup</h3>
+                <p>Automatic backups, secure data, and access from anywhere.</p>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
